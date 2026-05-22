@@ -27,12 +27,11 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the avaliable sensor in android mobile devices”.
-Developed by: Pranavesh Saikumar
-Registeration Number : 212223040149
-*/
+Developed by: Roopak C S
+Registeration Number: 212223220088
 ```
+
 ```
 package com.example.pmdex_04;
 
